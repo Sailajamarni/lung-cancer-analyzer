@@ -1,8 +1,8 @@
-# streamlit-navbar-flaskless
-A navbar component for streamlit.
+# lung-cancer-analyzer
+A lung cancer detection and prediction model 
 
 A navbar component which does not require any external dependencies to be used.  
-![navbar](https://user-images.githubusercontent.com/44586585/158054199-95576e41-5541-43ff-b16e-2988172104e1.gif)
+![navbar](https://github.com/Sailajamarni/gifs.git)
 
 Tested on `streamlit 1.7.0`  
 Written in `python 3.8` (Using 3.10 you can use switch case if you preffer).
