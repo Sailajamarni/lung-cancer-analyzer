@@ -2,7 +2,8 @@
 A lung cancer detection and prediction model 
 
 A navbar component which does not require any external dependencies to be used.  
-![navbar](https://github.com/Sailajamarni/gifs.git)
+[![Lung Cancer Prediction](https://drive.google.com/file/d/1MLr3KGILDGp24vfmOfISjXfXjgutI3ih/view?usp=sharing)](https://drive.google.com/file/d/1MLr3KGILDGp24vfmOfISjXfXjgutI3ih/view?usp=sharing)
+
 
 Tested on `streamlit 1.7.0`  
 Written in `python 3.8` (Using 3.10 you can use switch case if you preffer).
